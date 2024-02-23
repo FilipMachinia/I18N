@@ -1,0 +1,9 @@
+{
+  "buttonID": "Label",
+  "buttonTS": "Label TS",
+  "HeaderID": "Hello i18n!",
+  "HeaderTS": "Header TS!",
+  "Home": "Home",
+  "Second": "Second",
+  "Third": "Third"
+}

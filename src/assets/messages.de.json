@@ -1,0 +1,10 @@
+ {
+    "childHeader": "Hello child german",
+    "buttonID": "Label german",
+    "buttonTS": "Label TS german",
+    "HeaderID": "Hello i18n! german",
+    "HeaderTS": "Header TS! german",
+    "Home": "Home german",
+    "Second": "Second german",
+    "Third": "Third german"
+  }

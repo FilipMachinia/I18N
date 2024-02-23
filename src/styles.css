@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+.p-button {
+  margin: 1rem;
+}
+.p-dropdown {
+  width: 100%;
+}
+.content {
+  max-width: 100% !important;
+}
+p {
+  font-size: 20px;
+}
